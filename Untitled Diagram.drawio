@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T09:45:47.481Z" agent="5.0 (Windows)" version="13.9.9" etag="qKnmsQcZ9YqEtMBZf1Jf" type="github"><diagram id="9u7ElSkn_1ifmZWfT11o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T10:03:53.697Z" agent="5.0 (Windows)" etag="zNY6lyUTwojjxEOt6XCv" version="13.9.9" type="github">
+  <diagram id="9u7ElSkn_1ifmZWfT11o" name="Page-1">
+    <mxGraphModel dx="1422" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RcOtVHuglN1lQbNZgDst-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="602" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-4" value="Accueil" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-5" value="&lt;div&gt;Qui sommes&lt;/div&gt;&lt;div&gt;nous&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry x="99.83333333333334" width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-6" value="Le projet" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry x="199.66666666666669" width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-7" value="Expo" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry x="299.5" width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-8" value="Collections" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry x="399.33333333333337" width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-9" value="Contact" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-3">
+          <mxGeometry x="499.1666666666667" width="99.83333333333334" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-11" value="" style="shape=rect;fillColor=#F6F6F6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="3" width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-12" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;fillColor=#E4E4E4;strokeColor=none;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-11">
+          <mxGeometry width="164" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-13" value="Search" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#878789;fillColor=none;fontColor=#878789;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;" vertex="1" parent="RcOtVHuglN1lQbNZgDst-11">
+          <mxGeometry x="0.5" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/18.Pictures-Day-128.png" vertex="1" parent="1">
+          <mxGeometry y="-18" width="158" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="RcOtVHuglN1lQbNZgDst-16" value="e" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.column;columnType=common" vertex="1" parent="1">
+          <mxGeometry x="652" y="136.5" width="120" height="463.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
